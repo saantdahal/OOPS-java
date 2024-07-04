@@ -10,4 +10,4 @@ editor.color.instr=255,255,255
 editor.color.string=230,219,116
 editor.color.tag=121,171,255
 editor.color.xml_comment=117,113,94
-overriddenByCSS=,editor.color.header_assignment,editor.color.tag,editor.color.header_attributes,editor.color.externalized_string,editor.color.instr,editor.color.string,editor.color.header_osgi,editor.color.default,editor.color.header_key,editor.color.xml_comment,editor.color.header_value,
+overriddenByCSS=,editor.color.header_assignment,editor.color.instr,editor.color.tag,editor.color.header_attributes,editor.color.externalized_string,editor.color.string,editor.color.header_osgi,editor.color.default,editor.color.header_key,editor.color.xml_comment,editor.color.header_value,

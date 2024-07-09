@@ -31,7 +31,7 @@ public class ObjectAndClasses {
 
 		//	Setting Attributes for emp1
 		emp1.id=2;	
-		emp1.name="Aashika";
+		emp1.name="Test";
 		emp1.PrintDetails();
 		emp1.salary=5000;
 		System.out.println("The salary of Employee 2 is "+ emp1.salary);
